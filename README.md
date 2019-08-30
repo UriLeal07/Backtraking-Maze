@@ -42,4 +42,4 @@ La matriz binaria (laberinto) puede ser del tamaño que se desee, siempre y cuan
 
 
 ## Programas similares 📖
-Un excelente ejemplo de como funciona este programa puedes encontrarlo en [este sitio](https://www.cs.bu.edu/teaching/alg/maze/) aquí, ademas, puedes seleccionar la velocidad a la que resolverá el laberinto y te permite elejir el orden de busqueda que se ejecutará en el algoritmo.
+Este programa está basado en la información y ejemplificación del algoritmo de [este sitio](https://www.cs.bu.edu/teaching/alg/maze/), aquí además, puedes seleccionar la velocidad a la que resolverá el laberinto y te permite elejir el orden de busqueda que se ejecutará en el algoritmo.
