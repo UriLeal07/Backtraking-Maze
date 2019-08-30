@@ -41,5 +41,5 @@ Otro ejemplo:
 La matriz binaria (laberinto) puede ser del tamaño que se desee, siempre y cuando tenga un formato similar al de los ejemplos, los espacios son importantes; no ingresar la matriz con este formato causara un error en la aplicación.
 
 
-## Programas similares 📖
+## Fuentes de información 📖
 Este programa está basado en la información y ejemplificación del algoritmo de [este sitio](https://www.cs.bu.edu/teaching/alg/maze/), aquí además, puedes seleccionar la velocidad a la que resolverá el laberinto y te permite elejir el orden de busqueda que se ejecutará en el algoritmo.
